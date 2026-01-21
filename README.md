@@ -1,2 +1,2 @@
 # Azure-Unified-Data-Ingestion-Solution
-Enterprise-grade, reusable Azure ETL framework that centralizes ingestion from multiple schemas. Delivers curated, Gold-layer datasets via a unified Medallion architecture, eliminating the maintenance overhead of dozens of fragmented pipelines.
+An enterprise-grade, reusable Azure ETL pipeline designed to streamline data ingestion using a medallion architecture. This unified, metadata-driven solution enables seamless data movement across bronze, silver, and gold layers through a single, configurable pipeline — eliminating the complexity and maintenance overhead of managing multiple fragmented workflows.
