@@ -1,3 +1,3 @@
 # Azure-Unified-Data-Ingestion-Solution
 
-An enterprise-grade Azure ETL framework implementing metadata-driven medallion architecture (Bronze/Silver/Gold) with automated reconciliation across ERP, CRM, billing, and payment systems. Features a single configurable pipeline for streamlined ingestion/transformation, idempotent processing, data quality gates, exception management, SLA monitoring, and full audit lineage - eliminating fragmented workflows while delivering production-grade observability with Spark, databricks, Delta Lake, and Great Expectations.
+An enterprise-grade Azure ETL framework implementing metadata-driven medallion architecture (Bronze/Silver/Gold). Features a single configurable pipeline for streamlined ingestion/transformation, idempotent processing, data quality gates, exception management, SLA monitoring, and full audit lineage - eliminating fragmented workflows while delivering production-grade observability.
